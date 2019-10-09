@@ -1,0 +1,35 @@
+body {
+    background-color: #97695A;
+}
+
+article {
+    background-color: #ffffff;
+}
+
+#sidebar > div {
+    background-color: #ffffff;
+}
+
+div.container-fluid {
+    padding: 5px;
+    border: 4px solid #1E3F5E;
+}
+
+div.container-fluid article {
+    padding: 5px;
+    margin: 15px 1px 15px 15px;
+    border: 4px solid #1E3F5E;
+}
+
+div.col-md-3 div {
+    padding: 5px;
+    margin: 15px 15px 15px 1px;
+    border: 4px solid #1E3F5E;
+}
+
+header {
+    background-color: #1E3F5E;
+    text-align: center;
+    border-bottom: 4px solid #ffffff;
+    color: #ffffff;
+}
